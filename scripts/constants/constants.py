@@ -4,4 +4,4 @@ load_dotenv()
 
 OPENWEATHERMAP_API_KEY=os.getenv('OPENWEATHERMAP_API_KEY')
 GOOGLE_WEATHER_API_KEY=os.getenv('GOOGLE_WEATHER_API_KEY')
-basepath='D:/dayatani/script/kaze-bertani'
+basepath=os.getenv('BASEPATH')
