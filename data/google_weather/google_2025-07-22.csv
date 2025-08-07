@@ -1,0 +1,7 @@
+timestamp,city,error,temperature,humidity,weather_desc
+2025-07-22T02:32:29.415992+00:00,Garut,Google error,,,
+2025-07-22T02:32:30.003276+00:00,Gowa,,26.0,67.0,Sebagian besar berawan
+2025-07-22T02:32:30.253913+00:00,Klaten,Google error,,,
+2025-07-22T02:32:30.549670+00:00,Subang,Google error,,,
+2025-07-22T02:32:30.793312+00:00,Indramayu,Google error,,,
+2025-07-22T02:32:30.976295+00:00,Tasikmalaya,Google error,,,

@@ -1,0 +1,25 @@
+timestamp,city,temperature,humidity,weather_desc,wind_speed,clouds,source
+2025-07-22T03:06:00.135131+00:00,Garut,26.73,50,clear sky,1.53,10,OpenWeatherMap
+2025-07-22T03:06:01.239883+00:00,Gowa,27.83,64,broken clouds,2.17,60,OpenWeatherMap
+2025-07-22T03:06:02.339450+00:00,Klaten,27.58,73,scattered clouds,1.57,39,OpenWeatherMap
+2025-07-22T03:06:03.425880+00:00,Subang,30.94,52,scattered clouds,2.17,26,OpenWeatherMap
+2025-07-22T03:06:04.510626+00:00,Indramayu,30.24,61,scattered clouds,4.55,30,OpenWeatherMap
+2025-07-22T03:06:05.615873+00:00,Tasikmalaya,28.36,60,scattered clouds,1.91,40,OpenWeatherMap
+2025-07-22T03:15:37.522301+00:00,Garut,26.73,50,clear sky,1.53,10,OpenWeatherMap
+2025-07-22T03:15:38.686085+00:00,Gowa,27.83,64,broken clouds,2.17,60,OpenWeatherMap
+2025-07-22T03:15:39.781962+00:00,Klaten,27.58,73,scattered clouds,1.57,39,OpenWeatherMap
+2025-07-22T03:15:40.948926+00:00,Subang,30.85,52,scattered clouds,2.17,26,OpenWeatherMap
+2025-07-22T03:15:42.048231+00:00,Indramayu,30.24,61,scattered clouds,4.55,30,OpenWeatherMap
+2025-07-22T03:15:43.187791+00:00,Tasikmalaya,28.36,60,scattered clouds,1.91,40,OpenWeatherMap
+2025-07-22T03:17:52.150421+00:00,Garut,26.73,50,clear sky,1.53,10,OpenWeatherMap
+2025-07-22T03:17:53.248532+00:00,Gowa,27.83,64,broken clouds,2.17,60,OpenWeatherMap
+2025-07-22T03:17:54.343811+00:00,Klaten,27.65,72,scattered clouds,1.57,39,OpenWeatherMap
+2025-07-22T03:17:55.435393+00:00,Subang,30.85,52,scattered clouds,2.17,26,OpenWeatherMap
+2025-07-22T03:17:56.526759+00:00,Indramayu,30.24,61,scattered clouds,4.55,30,OpenWeatherMap
+2025-07-22T03:17:57.647035+00:00,Tasikmalaya,28.39,60,scattered clouds,1.91,40,OpenWeatherMap
+2025-07-22T03:20:10.978700+00:00,Garut,26.77,49,clear sky,1.53,10,OpenWeatherMap
+2025-07-22T03:20:12.087984+00:00,Gowa,27.83,64,broken clouds,2.17,60,OpenWeatherMap
+2025-07-22T03:20:13.189633+00:00,Klaten,27.65,72,scattered clouds,1.57,39,OpenWeatherMap
+2025-07-22T03:20:14.310918+00:00,Subang,30.89,51,scattered clouds,2.17,26,OpenWeatherMap
+2025-07-22T03:20:15.419478+00:00,Indramayu,30.27,61,scattered clouds,4.55,30,OpenWeatherMap
+2025-07-22T03:20:16.508937+00:00,Tasikmalaya,28.39,60,scattered clouds,1.91,40,OpenWeatherMap

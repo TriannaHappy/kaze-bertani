@@ -1,0 +1,7 @@
+timestamp,city,temperature,humidity,weather_desc,wind_speed,clouds
+2025-07-22T02:32:27.442369+00:00,Garut,26.71,52,clear sky,1.53,10
+2025-07-22T02:32:27.700690+00:00,Gowa,27.76,65,broken clouds,2.17,60
+2025-07-22T02:32:28.210082+00:00,Klaten,27.51,67,scattered clouds,1.57,39
+2025-07-22T02:32:28.531852+00:00,Subang,30.78,55,scattered clouds,2.17,26
+2025-07-22T02:32:28.838143+00:00,Indramayu,30.08,63,scattered clouds,4.55,30
+2025-07-22T02:32:29.152895+00:00,Tasikmalaya,28.29,62,scattered clouds,1.91,40

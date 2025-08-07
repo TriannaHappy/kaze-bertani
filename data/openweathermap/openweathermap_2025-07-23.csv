@@ -1,0 +1,13 @@
+timestamp,city,temperature,humidity,weather_desc,wind_speed,clouds,source
+2025-07-23T04:07:55.371989+00:00,Garut,28.23,52,scattered clouds,2.19,45,OpenWeatherMap
+2025-07-23T04:07:56.559668+00:00,Gowa,30.22,58,clear sky,2.3,1,OpenWeatherMap
+2025-07-23T04:07:57.791360+00:00,Klaten,29.34,71,broken clouds,1.12,68,OpenWeatherMap
+2025-07-23T04:07:59.061174+00:00,Subang,32.27,55,overcast clouds,2.13,88,OpenWeatherMap
+2025-07-23T04:08:00.275766+00:00,Indramayu,31.53,62,broken clouds,3.72,71,OpenWeatherMap
+2025-07-23T04:08:01.478362+00:00,Tasikmalaya,30.04,57,broken clouds,2.05,73,OpenWeatherMap
+2025-07-23T04:19:46.397870+00:00,Garut,28.23,52,scattered clouds,2.19,45,OpenWeatherMap
+2025-07-23T04:19:47.523131+00:00,Gowa,30.22,58,clear sky,2.3,1,OpenWeatherMap
+2025-07-23T04:19:48.682456+00:00,Klaten,29.34,71,broken clouds,1.12,68,OpenWeatherMap
+2025-07-23T04:19:50.005475+00:00,Subang,32.38,54,overcast clouds,2.13,88,OpenWeatherMap
+2025-07-23T04:19:51.270726+00:00,Indramayu,31.61,61,broken clouds,3.72,71,OpenWeatherMap
+2025-07-23T04:19:52.442369+00:00,Tasikmalaya,30.09,57,broken clouds,2.05,73,OpenWeatherMap
