@@ -1,0 +1,7 @@
+timestamp,city,temperature,feels_like,humidity,dew_point,heat_index,wind_chill,uv_index,weather_desc,weather_type,wind_speed,wind_gust,wind_dir_deg,wind_dir_cardinal,precip_prob,precip_amount,visibility,cloud_cover,air_pressure,temp_min,temp_max,source
+2025-08-07T04:22:58.904853843Z,Garut,26.8,27.8,57,17.4,27.8,26.8,8,Mostly sunny,MOSTLY_CLEAR,5,10,90,EAST,0,0.0,16,28,1012.48,16.6,26.8,GoogleWeatherAPI
+2025-08-07T04:23:01.296592421Z,Gowa,37.6,42.3,56,27.7,42.3,37.6,8,Partly sunny,PARTLY_CLOUDY,8,13,293,WEST_NORTHWEST,0,0.0,16,38,1009.62,27.5,38.6,GoogleWeatherAPI
+2025-08-07T04:23:03.658198869Z,Klaten,30.1,32.9,58,21.0,32.9,30.1,8,Mostly sunny,MOSTLY_CLEAR,3,5,90,EAST,0,0.0,16,23,1010.69,21.1,31.4,GoogleWeatherAPI
+2025-08-07T04:23:05.993188532Z,Subang,31.3,35.5,59,22.1,35.5,31.3,7,Partly sunny,PARTLY_CLOUDY,8,14,68,EAST_NORTHEAST,2,0.0,16,30,1010.34,22.6,31.9,GoogleWeatherAPI
+2025-08-07T04:23:08.413450328Z,Indramayu,30.9,36.5,67,23.9,36.5,30.9,8,Partly sunny,PARTLY_CLOUDY,11,22,90,EAST,15,0.0432,16,35,1010.12,25.7,31.2,GoogleWeatherAPI
+2025-08-07T04:23:10.774632700Z,Tasikmalaya,27.9,29.9,63,20.3,29.9,27.9,7,Partly sunny,PARTLY_CLOUDY,6,11,90,EAST,5,0.0,16,43,1011.81,18.4,28.7,GoogleWeatherAPI
